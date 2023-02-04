@@ -23,10 +23,10 @@
 例如，我添加如下友链到新的文件`测试.yml`
 
 ```yaml
-name: 小康博客
-link: https://www.antmoe.com/
-avatar: https://cdn.jsdelivr.net/npm/kang-static@latest/avatar.jpg
-descr: 一个收藏回忆与分享技术的地方！
+- name: Xlenco
+  link: https://blog.xlenco.top/
+  avatar: https://q1.qlogo.cn/g?b=qq&nk=1043865083&s=6
+  descr: 最好的地方,是没去过的地方。最好的时光，是回不来的时光。！
 ```
 
 
@@ -41,14 +41,10 @@ descr: 一个收藏回忆与分享技术的地方！
    class_name: 测试分组
    class_desc: 这是一个测试使用的分组
    link_list:
-     - name: 小康博客
-       link: https://www.antmoe.com/
-       avatar: https://cdn.jsdelivr.net/npm/kang-static@latest/avatar.jpg
-       descr: 一个收藏回忆与分享技术的地方！
-       theme:
-         style: default
-         siteImage:
-         
+     - name: Xlenco
+       link: https://blog.xlenco.top/
+       avatar: https://q1.qlogo.cn/g?b=qq&nk=1043865083&s=5
+       descr: 最好的地方,是没去过的地方。最好的时光，是回不来的时光。         
    ```
 
    > - `class_name`
