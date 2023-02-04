@@ -10,8 +10,8 @@
       siteImage: ''
   - name: Zkeq の Coding 日志
     link: https://icodeq.com
-    avatar": "https://img.onmicrosoft.cn/Avatar.jpg
-    descr: "自强，弘毅，求实"
+    avatar: https://img.onmicrosoft.cn/Avatar.jpg
+    descr: 自强，弘毅，求实
   - name: MJ's Blog
     descr: 醒亦念卿，梦亦念卿
     link: https://blog.justlovesmile.top
@@ -148,7 +148,7 @@
     descr: wzx个人主页
   - name: 红气球分享屋
     link: https://aicartoon.top/
-    avatar: "https://www.aicartoon.top/usr/logo/yaso.webp
+    avatar: https://www.aicartoon.top/usr/logo/yaso.webp
     descr: 分享个人编程学习、网络资源、记录生活等，每天进步一点点
   - name: 西瓜撞地球
     link: https://www.bio-w.cn/
