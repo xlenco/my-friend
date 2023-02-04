@@ -28,9 +28,9 @@ friendFiles.forEach((item) => {
   content.link_list = content.link_list.filter((item) => {
     if (!item.disable) return item
   })
-  if (content.link_list.length > 0) {
+  if (content.link_list.length > 0) [{
     result[name[0]] = content
-  }
+  }]
 })
 
 if (!fs.existsSync('./dist')) {
