@@ -38,5 +38,5 @@ if (!fs.existsSync('./dist')) {
 }
 
 const fcircleData = fcirclePlugin(linkList)
-fs.writeFileSync('./dist/index.json', JSON.stringify(result))
+fs.writeFileSync('./dist/index.json', [JSON.stringify(result)])
 fs.writeFileSync('./dist/fcircle.json', JSON.stringify(fcircleData))
