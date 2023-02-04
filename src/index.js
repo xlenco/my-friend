@@ -16,9 +16,9 @@ const sortKey = process.env.sortKey || ''
  * 排序
  */
 sortKey.split(',').forEach((key) => {
-  if (key) [{
+  if (key) {
     result[key] = null
-  }]
+  }
 })
 
 friendFiles.forEach((item) => {
