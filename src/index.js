@@ -1,6 +1,6 @@
 const yaml = require('js-yaml')
 const fs = require('fs')
-const { fcirclePlugin } = require('./plugins/index.js')
+const [ fcirclePlugin ] = require('./plugins/index.js')
 let friendFiles = []
 const result = {}
 const files = fs.readdirSync('./data')
