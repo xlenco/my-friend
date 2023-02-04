@@ -21,7 +21,7 @@ sortKey.split(',').forEach((key) => {
   }
 })
 
-friendFiles.forEach((item) => [{
+friendFiles.forEach((item) => {
   const name = item.split('.')
   const content = yaml.load(fs.readFileSync(`./data/${item}`, 'utf8'))
   linkList.push(...content.link_list)
@@ -31,7 +31,7 @@ friendFiles.forEach((item) => [{
   if (content.link_list.length > 0) {
     result[name[0]] = content
   }
-})]
+})
 
 if (!fs.existsSync('./dist')) {
   fs.mkdirSync('./dist')
