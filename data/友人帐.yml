@@ -8,6 +8,10 @@
     theme:
       style: default
       siteImage: ''
+  - name: Zkeq の Coding 日志
+    link: https://icodeq.com
+    avatar": "https://img.onmicrosoft.cn/Avatar.jpg
+    descr: "自强，弘毅，求实"
   - name: MJ's Blog
     descr: 醒亦念卿，梦亦念卿
     link: https://blog.justlovesmile.top
@@ -158,3 +162,11 @@
     link: https://tzy1997.com/
     avatar: https://bu.dusays.com/2022/05/02/626f92e193879.jpg
     descr: 古今之成大事者，不惟有超世之才，亦必有坚忍不拔之志
+  - name: 鹿啵包の小窝
+    link: https://pochacco.top/
+    avatar: https://pochacco.top/img/Avatar.gif
+    descr: 落日橘子海，揽尽世间温柔
+  - name: Leonus
+    link: https://blog.leonus.cn/
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=553344777&s=5
+    descr: 进一寸有进一寸的欢喜
