@@ -16,9 +16,9 @@ const sortKey = process.env.sortKey || ''
  * 排序
  */
 sortKey.split(',').forEach((key) => {
-  if (key) {
+  if (key) [{
     result[key] = null
-  }
+  }]
 })
 
 friendFiles.forEach((item) => {
@@ -38,5 +38,5 @@ if (!fs.existsSync('./dist')) {
 }
 
 const fcircleData = fcirclePlugin(linkList)
-fs.writeFileSync('./dist/index.json', [JSON.stringify(result)])
+fs.writeFileSync('./dist/index.json', JSON.stringify(result))
 fs.writeFileSync('./dist/fcircle.json', JSON.stringify(fcircleData))
