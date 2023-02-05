@@ -1,5 +1,4 @@
 const YML = require('yamljs')
-const yaml = require('js-yaml')
 const fs = require('fs')
 
 let ls   = [],
