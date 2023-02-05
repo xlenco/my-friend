@@ -2,7 +2,7 @@ const YML = require('yamljs')
 const fs = require('fs') 
 
 let ls = [], 
-    data = YML.parse(fs.readFileSync('data/link.yml').toString().replace(/(?<=rss:)\s*\n/g, ' ""\n')); 
+    data = YML.parse(fs.readFileSync('data/友人帐.yml').toString().replace(/(?<=rss:)\s*\n/g, ' ""\n')); 
 
 data.forEach((e, i) => {
     let j = data.length-1;
