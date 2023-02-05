@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "build": "node ./src/index.js && node ./src/link.js",
+    "build": "node ./src/index.js",
     "transfer": "node ./src/transfer.js"
   },
   "author": "",
