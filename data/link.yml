@@ -1,0 +1,21 @@
+  class_name: 友人帐
+  class_desc: 昔日里那些人，那些事
+  link_list:
+  - name: 陈鑫磊'Blog
+    link: https://www.cxl2020mc.top
+    avatar: https://www.cxl2020mc.top/img/avatar.png
+    descr: 这个人太懒了啥也没写......
+    theme:
+      style: default
+      siteImage: ''
+  - name: Zkeq の Coding 日志
+    link: https://icodeq.com
+    avatar: https://img.onmicrosoft.cn/Avatar.jpg
+    descr: 自强，弘毅，求实
+  - name: MJ's Blog
+    descr: 醒亦念卿，梦亦念卿
+    link: https://blog.justlovesmile.top
+    avatar: https://npm.elemecdn.com/justlovesmile-img/logo.jpg
+    theme:
+      style: default
+      siteImage: ''
