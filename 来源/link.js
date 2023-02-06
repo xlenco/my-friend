@@ -44,4 +44,3 @@ if (!fs.existsSync('./dist')) {
 
 const fcircleData = fcirclePlugin(linkList)
 fs.writeFileSync('./dist/link.json', JSON.stringify(result))
-
