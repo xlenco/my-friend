@@ -24,7 +24,7 @@ files.forEach(function (item, index) {
 
 friendFiles.forEach((item) => {
   const name = item.split('.')
-  const content = yaml.load(fs.readFileSync(`./data/${item}`, 'utf8').toString().replace(/(?<=rss:)\s*\n/g, ' ""\n'));
+  const content = yaml.load(fs.readFileSync(`./data/${item}`, 'utf8'))
   linkList.push(...content.link_list)
   content.link_list = content.link_list.filter((item) => {
     if (!item.disable) return item
