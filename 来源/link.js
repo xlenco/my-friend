@@ -3,7 +3,7 @@ const fs = require('fs')
 const { fcirclePlugin } = require('./plugins/index.js')
 let friendFiles = []
 const result = {"link_list": []} //这个就是生成的数据结果的变量
-const files = fs.readdirSync('./data').toString().replace(/(?<=rss:)\s*\n/g, ' ""\n')
+const files = (fs.readdirSync('./data').toString().replace(/(?<=rss:)\s*\n/g, ' ""\n'));
 const linkList = []
 files.forEach(function (item, index) {
   // 压缩或者bese文件是没有相对应的页面的,这里做排除
