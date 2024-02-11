@@ -104,26 +104,17 @@
     link: https://blog.eurkon.com
     avatar: https://blog.eurkon.com/images/user/avatar.jpg
     descr: 不只是代码的搬运工
-    theme:
-      style: default
-      siteImage: ''
   - name: 九九九感冒绫 #站点名称
     link: https://miku-39.love/ #站点链接
     avatar: https://pic1.imgdb.cn/item/6343babe16f2c2beb1acb692.jpg #站长头像
     descr: 这是我的梦想,我会慢慢的完成它 #站点描述穷,碾过尊严,碾过微薄的梦 #站点描述
-    theme:
-      style: default
-      siteImage: ''
   - name: 一生雾梦の博客
     link: https://yswm-m.github.io
     avatar: https://pic.imgdb.cn/item/631c5b8016f2c2beb1f6056e.jpg
     descr: 若一心追逐北极星,所经路线便能成为地图
-    theme:
-      style: default
-      siteImage: ''
   - name: Jayhrn
     link: https://blog.jayhrn.com
-    avatar: https://unpkg.com/jayblog-source@1.0.1/img/normal/avatar.webp
+    avatar: https://cdn.cbd.int/jayblog-source@1.0.1/img/normal/avatar.webp
     descr: 念念不忘，必有回响
   - name: wzx
     link: https://wzx.is-a.dev/
