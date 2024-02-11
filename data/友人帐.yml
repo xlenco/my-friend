@@ -82,13 +82,6 @@
     theme:
       style: default
       siteImage: ''
-  - name: 大锤の博客
-    link: https://dddachui.top/
-    avatar: https://dddachui.top/download/other/wanye.jpg
-    descr: 运维本是逆天而行,死在路上也很正常
-    theme:
-      style: default
-      siteImage: ''
   - name: Fomalhaut🥝
     link: https://www.fomal.cc/
     avatar: https://www.fomal.cc/assets/head.jpg
@@ -107,16 +100,6 @@
     link: https://yisous.xyz
     avatar: https://bu.dusays.com/2022/09/01/63103c5038313.webp
     descr: 人有悲欢离合 月有阴晴圆缺
-    theme:
-      style: default
-      siteImage: ''
-  - name: Hello World
-    link: https://www.ttkwsd.top/
-    avatar: https://static.ttkwsd.top/config/9c65807710f54d9d5ad398a78216ebfb.jpg
-    descr: 学习笔记
-    theme:
-      style: default
-      siteImage: ''
   - name: Eurkon
     link: https://blog.eurkon.com
     avatar: https://blog.eurkon.com/images/user/avatar.jpg
@@ -146,10 +129,6 @@
     link: https://wzx.is-a.dev/
     avatar: https://wzx.is-a.dev/images/avatar.png
     descr: wzx个人主页
-  - name: 红气球分享屋
-    link: https://aicartoon.top/
-    avatar: https://www.aicartoon.top/usr/logo/yaso.webp
-    descr: 分享个人编程学习、网络资源、记录生活等，每天进步一点点
   - name: 西瓜撞地球
     link: https://www.bio-w.cn/
     avatar: https://bu.dusays.com/2022/10/17/634d313602a1e.png
@@ -174,17 +153,13 @@
     link: https://rainxblog.top/
     avatar: https://rainxblog.top/wp-content/uploads/2022/11/head.jpg
     descr: 幸与不幸都有尽头
-  - name: 安知鱼
-    link: https://anzhiy.cn/
-    avatar: https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
-    descr: 生活明朗，万物可爱
   - name: Marcus
     link: https://blog.marcus233.top
     avatar: https://bu.dusays.com/2022/09/15/632271409f592.png
     descr: 一只有梦想的羊驼
   - name: haor-一个初学者
     link: https://blog.abeginner.cn
-    avatar: https://cdn.abeginner.cn/img/hand.jpg,
+    avatar: https://cdn.abeginner.cn/img/hand.jpg
     descr: 这个人太懒了啥也没写......
   - name: 张洪Heo
     link: https://blog.zhheo.com/
@@ -198,18 +173,11 @@
     link: https://blog.shineyu.cn/
     avatar: https://s3.bmp.ovh/imgs/2022/11/23/129c19d56d22c637.png
     descr: 热爱生活点滴，分享时刻精彩。
-  - name: 枢衡の巢
-    link: https://www.crowhsu.top
-    avatar: https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/blog202302022210838.png
     descr: 既然相信，那就前行
   - name: CasparC
     link: https://casparc.cn
     avatar: https://casparc.cn/images/avatar.jpg
     descr: 想、写、记、留
-  - name: WindBack
-    link: https://wndbac.cn
-    avatar: https://static.wndbac.cn/avatar.jpg
-    descr: 各自努力，山顶再见
   - name: 天翔TNXGの空间站
     link: https://blog.tnxg.top/
     avatar: https://q1.qlogo.cn/g?b=qq&nk=2271225249&s=640
@@ -230,7 +198,3 @@
     link: https://blog.twintea.top
     avatar: https://avatars.githubusercontent.com/u/98571056?v=4
     descr: May all the beauty be blessed.
-  - name: 幼稚园园长
-    link: https://yzyyz.top/
-    avatar: https://cdn.staticaly.com/gh/yzyyz1387/blogimages/master/img/bloger.jpeg
-    descr: 学无止境 知行合一
